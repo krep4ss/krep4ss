@@ -29,8 +29,8 @@
         <a href="https://discord.gg/vRDNmTyY4G"><img src="logos/discord.svg" style="height: 30px"></a>
         </div></ul>
 </section>
-<section>
+<!--<section>
 <h3>Rezeticon</h3>
 <ul><img src="rezeticon/rezeticon1.png" alt="Reze icon left" style="height: 40px; width: auto;">
 <img src="rezeticon/rezeticon2.png" alt="Reze icon right" style="height: 40px; width: auto;"></ul>
-</section>
+</section>-->
