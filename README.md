@@ -25,7 +25,7 @@
 <h3>Social</h3>
         <ul><div>
         <a href="https://solved.ac/profile/allang"><img src="logos/solvedac.svg" style="height: 30px"></a>
-        <a href="https://github.com/kkreppass"><img src="logos/github.svg" style="height: 30px"></a>
+       <!-- <a href="https://github.com/kkreppass"><img src="logos/github.svg" style="height: 30px"></a>-->
         <a href="https://discord.gg/vRDNmTyY4G"><img src="logos/discord.svg" style="height: 30px"></a>
         </div></ul>
 </section>
