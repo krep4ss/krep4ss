@@ -1,4 +1,4 @@
-[![YouTube Video](https://img.youtube.com/vi/eRvtRqNkZww/0.jpg)](https://www.youtube.com/watch?v=eRvtRqNkZww&list=RDeRvtRqNkZww&start_radio=1&t=1894s)
+[![YouTube Video](https://img.youtube.com/vi/eRvtRqNkZww/0.jpg)](https://www.youtube.com/watch?v=eRvtRqNkZww)
 
 ### Social
 
