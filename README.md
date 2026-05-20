@@ -6,4 +6,6 @@
 </p>
 
 ### Playlist
-[![Youtube Video](https://github.com/user-attachments/assets/591db98b-f6a4-4ef4-bb50-1cb5181b8977)](https://www.youtube.com/watch?v=eRvtRqNkZww)
+<a href="https://www.youtube.com/watch?v=eRvtRqNkZww">
+  <img src="https://github.com/user-attachments/assets/591db98b-f6a4-4ef4-bb50-1cb5181b8977" alt="ㅋ" width="500">
+</a>
